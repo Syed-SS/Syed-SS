@@ -1,127 +1,102 @@
 # Hi, I'm Syed Shahed 👋
 
-### AI & Data Science Engineer | AI/ML | Data Analytics | Python | RAG | Generative AI
+### AI & Data Science Engineer | Generative AI, RAG & Data Analytics
 
-I build practical AI and data-driven solutions across **Retrieval-Augmented Generation, Machine Learning, NLP, Data Analytics, and Business Intelligence**.
+I build practical AI applications and data-driven solutions using Python, machine learning, retrieval-augmented generation (RAG), and business intelligence tools.
 
-My focus is on building systems that combine **data, machine learning, LLMs, and measurable evaluation** to solve practical problems.
+My work spans AI application development, retrieval and evaluation pipelines, interactive analytics dashboards, and transforming raw data into useful business insights.
 
----
-
-## 🚀 What I Work With
-
-- 🤖 **AI / Machine Learning**
-- 🧠 **Generative AI & LLM Applications**
-- 🔎 **Retrieval-Augmented Generation (RAG)**
-- 🕸️ **LightRAG & Knowledge Representation**
-- 📊 **Data Analytics & Data Visualization**
-- 🐍 **Python**
-- 🗄️ **SQL**
-- 📈 **Power BI**
-- 🗣️ **NLP & Text Processing**
-- 👁️ **Computer Vision**
-- ⚛️ **React / Next.js**
+[LinkedIn](https://www.linkedin.com/in/syedshahed-ai) · [GitHub Projects](https://github.com/Syed-SS?tab=repositories) · [Fiverr](https://www.fiverr.com/syedss07)
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### 🔎 Research Intelligence RAG
+### 1. Research Intelligence RAG
+**Python · LightRAG · RAGAS · OpenAI**
 
-Research-focused RAG system using **LightRAG** for knowledge representation and retrieval, with systematic evaluation using **RAGAS**.
+A research-focused retrieval-augmented generation system designed to help users retrieve and explore information from research documents.
 
-**Highlights:**
-- 10 research-paper datasets
-- 27 evaluation questions
-- 4 RAGAS metrics
-- 108 metric evaluations
-- Final evaluation with zero missing metric values
-- OpenAI GPT-4o-mini
-- `text-embedding-3-small`
+- Evaluated across 10 research datasets using 27 questions.
+- Used four RAGAS evaluation metrics, representing 108 metric evaluations.
+- Built a Streamlit chatbot interface for interactive use.
+- Evaluated context precision, answer relevancy, faithfulness, and related retrieval/response quality measures.
 
-**Tech:** Python • LightRAG • RAG • RAGAS • OpenAI • LLMs
+[View Repository](https://github.com/Syed-SS/research-intelligence-rag)
 
-[View Project →](https://github.com/Syed-SS/research-intelligence-rag)
+### 2. Vireo Audio Customer Support & Refund Intelligence
+**Python · Streamlit · Pandas · NumPy**
 
----
+An interactive business intelligence dashboard for analyzing customer-support performance and refund operations.
 
-### 🧠 Personalized Emotional Care Assistant
+- Refund KPIs, trends, and category-level analysis.
+- Channel-specific SLA monitoring.
+- Rule-based policy review and business summaries.
+- IQR-based screening of potentially unusual refund amounts.
+- Data-quality checks, case exploration, and CSV exports.
 
-Multimodal AI application combining multiple emotion-analysis approaches for context-aware wellness support.
+The anomaly flags support investigation; they do not establish fraud.
 
-**Tech:** Python • React • NLP • Machine Learning • Computer Vision • Deep Learning
+[View Repository](https://github.com/Syed-SS/vireo-audio-support-intelligence)
 
-[View Project →](https://github.com/Syed-SS/personalized-emotional-care-assistant)
+### 3. Personalized Emotional Care Assistant
+**Python · React · NLP · Machine Learning · Computer Vision**
 
----
+A multimodal AI application combining sentiment analysis and voice/facial emotion-analysis components to support context-aware wellness interactions.
 
-### 📊 Data Analytics & Business Intelligence
+[View Repository](https://github.com/Syed-SS/personalized-emotional-care-assistant)
 
-Projects covering:
+### 4. Customer Churn Analysis Dashboard
+**Power BI · Python · Data Analytics**
 
-- Customer churn analysis
-- Online retail sales analysis
-- Restaurant data analysis
-- Tableau / Power BI dashboards
-- Exploratory data analysis
-- Business insights and recommendations
+A customer-retention analytics project focused on churn-related metrics, KPI reporting, and business intelligence.
 
----
+[View Repository](https://github.com/Syed-SS/customer-churn-analysis-dashboard)
 
-## 📚 Currently Focused On
+### 5. Online Retail Sales Dashboard
+**Power BI · Data Visualization · Business Intelligence**
 
-- Retrieval-Augmented Generation
-- LLM Applications
-- AI Engineering
-- Machine Learning
-- Data Analytics
-- Evaluation of AI systems
-- Building practical AI solutions
+Analyzes online retail sales to explore revenue patterns, country-level performance, and customer purchasing behaviour.
+
+[View Repository](https://github.com/Syed-SS/online-retail-sales-dashboard)
+
+### 6. Deloitte Data Analytics Job Simulation
+**Data Analytics · Tableau · Data Visualization**
+
+A job-simulation project covering telemetry analysis, dashboard development, and workforce-related data insights.
+
+[View Repository](https://github.com/Syed-SS/deloitte-data-analytics-forage)
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages**
+| Category | Technologies |
+|---|---|
+| Programming & Data | Python, SQL, Pandas, NumPy |
+| Generative AI | RAG, LLM applications, LightRAG, embeddings |
+| AI & Machine Learning | NLP, sentiment analysis, computer vision, deep learning |
+| Evaluation & Analytics | RAGAS, exploratory data analysis, KPI reporting, statistical analysis |
+| Business Intelligence | Power BI, Excel, DAX, data visualization |
+| Application Development | Streamlit, React, Next.js |
+| Tools | Git, GitHub, Jupyter Notebook, VS Code |
 
-`Python` `SQL`
+## 🎯 Current Focus
 
-**AI / ML**
+- Building reliable RAG and LLM-powered applications.
+- Evaluating retrieval quality and generated responses.
+- Developing interactive data analytics and BI dashboards.
+- Improving Python, SQL, and production-oriented development practices.
 
-`Machine Learning` `Deep Learning` `NLP` `Computer Vision`
+## 📌 How I Approach Projects
 
-**Generative AI**
+I focus on practical problem-solving, transparent analytical methods, evaluation where applicable, and documenting implementation choices and limitations.
 
-`RAG` `LLMs` `LightRAG` `RAGAS` `OpenAI`
-
-**Data**
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI`
-
-**Web**
-
-`React` `Next.js` `JavaScript`
-
-**Tools**
-
-`Git` `GitHub` `Jupyter` `VS Code`
-
----
-
-## 📈 GitHub
-
-I use GitHub to document projects, experiments, evaluation results, and reproducible implementations across AI, machine learning, and data analytics.
-
----
+My repositories cover both AI application development and business analytics, with an emphasis on making the work understandable and reproducible.
 
 ## 🤝 Connect With Me
 
-**LinkedIn:**  
-https://www.linkedin.com/in/syedshahed-ai
-
-**Email:**  
-shahedsyed783@gmail.com
-
-**Fiverr:**  
-https://www.fiverr.com/syedss07
-
+- **LinkedIn:** [Syed Shahed](https://www.linkedin.com/in/syedshahed-ai)
+- **GitHub:** [Syed-SS](https://github.com/Syed-SS)
+- **Fiverr:** [syedss07](https://www.fiverr.com/syedss07)
+- **Email:** shahedsyed783@gmail.com
