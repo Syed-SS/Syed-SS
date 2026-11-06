@@ -4,7 +4,7 @@
 I help businesses automate customer support by 70%, build custom knowledge agents, and transform complex company data into interactive dashboards for faster decision-making.
 
 💼 **Open for Full-Time, Freelance & Remote Contract Roles!**
-📩 **Connect:** shahedsyed783@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/syedshahed-ai) | 🛒 [Fiverr](https://www.fiverr.com/syedss07)
+📩 **Connect:** shahedsyed809@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/syedshahed-ai) | 🛒 [Fiverr](https://www.fiverr.com/syedss07)
 
 ---
 
@@ -42,5 +42,5 @@ I help businesses automate customer support by 70%, build custom knowledge agent
 
 ---
 
-🤝 **Have an AI bot or data project in mind? Drop an email at shahedsyed783@gmail.com and let's build a custom solution!**
+🤝 **Have an AI bot or data project in mind? Drop an email at shahedsyed809@gmail.com and let's build a custom solution!**
 
